@@ -1,4 +1,4 @@
-HF = 1056
+HF = 528
 
 
 for i in range(1,50):
